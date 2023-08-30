@@ -16,7 +16,7 @@ You can find some of my work below
 # Assignment: [Visualizaing Government Debt](visualizing-government-debt.md)
 Check back soon! 
 
-# Assignment 3 & 4: [Critique by Design](critique-by-design)
+# Assignment 3 & 4: [Critique by Design](critique-by-design.md)
 Check back soon! 
 
 # Final Project
