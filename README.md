@@ -13,7 +13,7 @@ Following graduation, I will work as a data engineer at ~~redacted~~.
 # Portfolio
 You can find some of my work below
 
-# Assignment: [Visualizaing Government Debt](visualizing-government-debt)
+# Assignment: [Visualizaing Government Debt](visualizing-government-debt.md)
 Check back soon! 
 
 # Assignment 3 & 4: [Critique by Design](critique-by-design)
