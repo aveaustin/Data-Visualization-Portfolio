@@ -20,6 +20,6 @@ Check back soon!
 Check back soon! 
 
 # Final Project
-## [Part 1](final-project-part-one.md)
-## [Part 2](final-project-part-two.md)
-## [Part 3](final-project-part-three.md)
+### [Part 1](final-project-part-one.md)
+### [Part 2](final-project-part-two.md)
+### [Part 3](final-project-part-three.md)
