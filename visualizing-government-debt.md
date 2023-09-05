@@ -1,3 +1,6 @@
-Come back soon to see some work visualizing government debt! 
+# Visualizing Government Debt
+These are various representations of government debt, as a percentage of their GDP
 
-Thanks!
+## Embedding directly from OECD.org
+
+<iframe src="https://data.oecd.org/chart/7aYF" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7aYF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
