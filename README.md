@@ -14,7 +14,7 @@ Following graduation I will be working as a data engineer, and will gladly discu
 You can find some of my work below
 
 # In-Class Work
-[King County Covid-19 Demo](KingCountryDemoGraph.md)
+[King County Covid-19 Demo](KingCountyDemoGraph.md)
 
 # Assignment: [Visualizaing Government Debt](visualizing-government-debt.md)
 Check back soon! 
