@@ -13,13 +13,13 @@ Following graduation I will be working as a data engineer, and will gladly discu
 # Portfolio
 You can find some of my work below
 
-# In-Class Work
+## In-Class Work
 [King County Covid-19 Demo](KingCountyDemoGraph.md)
 
-# Assignment: [Visualizaing Government Debt](visualizing-government-debt.md)
+## Assignment: [Visualizaing Government Debt](visualizing-government-debt.md)
 Check back soon! 
 
-# Assignment 3 & 4: [Critique by Design](critique-by-design.md)
+## Assignment 3 & 4: [Critique by Design](critique-by-design.md)
 Check back soon! 
 
 # Final Project
