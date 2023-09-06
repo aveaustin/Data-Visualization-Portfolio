@@ -9,4 +9,10 @@ These are various representations of government debt, as a percentage of their G
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14930937"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## My own custom visualization
+## My own custom visualizations
+
+A static chart which allows the user to select individual countries and see how the line changes from the previous country
+<div class="flourish-embed flourish-chart" data-src="visualisation/14931058"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## A dynamic visualization showing the top five debt-to-GDP ratios over the full timespan
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14931378"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
