@@ -15,6 +15,7 @@ You can find some of my work below
 
 ## In-Class Work
 [King County Covid-19 Demo](KingCountyDemoGraph.md)
+[Visualizing Trust in News Data](Visualizing-News-Data.md)
 
 ## Assignment: [Visualizaing Government Debt](visualizing-government-debt.md)
 Check back soon! 
