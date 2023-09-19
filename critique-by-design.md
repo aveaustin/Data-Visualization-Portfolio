@@ -2,15 +2,18 @@
 
 ## Inspiration and Critique
 
-The original data visualization behind this project comes from the Federal Reserve Bank of St. Louis in an article titled "[Military Expenditures: How Do the Top-Spending Nations Compare?](https://www.stlouisfed.org/on-the-economy/2023/jan/military-expenditures-how-top-spending-nations-compare)". The flagship graph within the article was also tweeted: 
+The original data visualization behind this project comes from the Federal Reserve Bank of St. Louis in an article titled "[Military Expenditures: How Do the Top-Spending Nations Compare?](https://www.stlouisfed.org/on-the-economy/2023/jan/military-expenditures-how-top-spending-nations-compare)". The flagship graph within the article can be found below: 
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">An analysis looks at how defense spending among the nations with the highest expenditures has changed since 1992 and what may have driven the changes
-    <a href="https://t.co/3ln08vOKAo">https://t.co/3ln08vOKAo</a>
-    <a href="https://t.co/yqK6MqwQUm">pic.twitter.com/yqK6MqwQUm</a>
-  </p>&mdash; St. Louis Fed (@stlouisfed)
-  <a href="https://twitter.com/stlouisfed/status/1617266021810724866?ref_src=twsrc%5Etfw">January 22, 2023</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-  
+<div class='tableauPlaceholder' id='viz1695167847838' style='position: relative'><noscript><a href='#'><img alt='Military Spending: How Much Does the U.S. Spend? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilExpenditure&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MilExpenditure&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilExpenditure&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' />
+  <param name='filter' value='publish=yes' />
+</object>
+</div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1695167847838');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
