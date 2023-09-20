@@ -50,6 +50,64 @@ I chose to create a simple sketch that captures the existing data without using 
 
 ![Sketch of new solution](sketch.png)
 
+# Peer Review
+After sketching my idea of a solution, I received feedback from peers on the visualization
+
+### Student, late 20s
+
+* Can you telling me what you think this is?
+
+This graph shows the military expenditures by major nations over a 30+ year period. 
+
+* Can you describe to me what this is telling you?
+
+The United States has and continues to spend a whole lot of money!
+
+* Is there anything you find surprising or confusing?
+
+The fluctuations in the United States expenditures are pretty significant compared the other countries. This is because of the difference in executive administrations - perhaps markers on who was president at the peak and pit of the United States would be helpful.
+
+* Who do you think is the intended audience for this?
+
+Those interested in geopolitics/ military industrial complex/ every day citizens.
+
+
+* Is there anything you would change or do differently?
+
+If the intended audience is US readers, I think markers on different lines of who was president/what conflict started/ended in given years would be helpful to show the context in the large fluctuations. 
+
+* It would be cool to Afghanistan, Iraq, Syria, Ukraine, Yemen, etc or just countries who are still currently at war.
+
+### Student, late 20s
+
+* Can you tell me what you think this is?
+
+This chart depicts military expenditure for the top six nations in the world based on highest spending.
+
+* Can you describe to me what this is telling you?
+
+The chart is depicting the change over time of military spending for the top 6 highest military spending nations in the world. 5 of the 6 nations are all in the same ballpark but the US is massively above the others.
+
+* Is there anything you find surprising or confusing?
+
+I guess to some it might be surprising that the US spends so much more than other nations on its military, but in terms of the chart itself explaining its data, nothing is terribly surprising or confusing.
+
+* Who do you think is the intended audience for this?
+
+The intended audience for this is likely those interested in government spending as a whole and more specifically individuals who believe the US spends too much on its military. 
+
+* Is there anything you would change or do differently?
+
+The chart is effective at showing how much more the US spends on its military than other countries. If that is the main point of the chart, then I wouldn't change much. Maybe just the scales on the axes (make them even units apart). Other than that, the chart is simple yet effective.
+
+These comments meant I was on the right track. They both noted how much the U.S. spends, which made me consider the importance of including the spending as a percent of GDP in addition to this graph, to prevent misleading the audience in the opposite direction of the original visualization. 
+
+# Final Visualizations
+
+From here, I implemented the sketch into Tableua, and included a graphic of the spending as a percent of GDP. I feel like both of these visualizations belonged in the tweet from the St. Louis Federal Reserve Bank to paint a clear picture. 
+
+The first visualization is the military expenditures of the top six countries:
+
 <div class='tableauPlaceholder' id='viz1695167847838' style='position: relative'><noscript><a href='#'><img alt='Military Spending: How Much Does the U.S. Spend? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilExpenditure&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MilExpenditure&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilExpenditure&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' />
   <param name='filter' value='publish=yes' />
 </object>
