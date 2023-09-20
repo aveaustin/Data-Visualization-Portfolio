@@ -3,6 +3,9 @@
 ## Inspiration and Critique
 
 The original data visualization behind this project comes from the Federal Reserve Bank of St. Louis in an article titled "[Military Expenditures: How Do the Top-Spending Nations Compare?](https://www.stlouisfed.org/on-the-economy/2023/jan/military-expenditures-how-top-spending-nations-compare)". The flagship graph within the article can be found below: 
+![Military Expenditure Graph from St. Louis Federal Reserve Bank](https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/blog/2023/jan/ote/blogimage_globaldefense_fig1_010323.png?sc_lang=en&hash=6BD9734407F58F86D4BD456D51B6FF0E)
+
+
 
 <div class='tableauPlaceholder' id='viz1695167847838' style='position: relative'><noscript><a href='#'><img alt='Military Spending: How Much Does the U.S. Spend? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilExpenditure&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MilExpenditure&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilExpenditure&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' />
   <param name='filter' value='publish=yes' />
