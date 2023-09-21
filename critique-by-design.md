@@ -2,7 +2,7 @@
 
 ## Inspiration and Critique
 
-The original data visualization behind this project comes from the Federal Reserve Bank of St. Louis in an article titled "[Military Expenditures: How Do the Top-Spending Nations Compare?](https://www.stlouisfed.org/on-the-economy/2023/jan/military-expenditures-how-top-spending-nations-compare)". As a member of the U.S. Armed Forces, I frequeltnly hear about the Untied States' military spending habits in converstaion. Some proclaim it's too high while argue claim it's not enough. Both arguments have some merit when backed with data and facts; however I baulk at strong **misinformed** beliefs. This graph was featured in a tweet by the St. Louis Federal Reserve Bank with the caption "An analysis looks at how defense spending among the nations with the highest expenditures has changed since 1992 and what may have driven the changes". Without investing the time to read --or at least conduct a full analysis of the graph, the casual viewer is at risk of receiving a message which is far from the truth. The first graph in the article can found below: 
+The original data visualization behind this project comes from the Federal Reserve Bank of St. Louis in an article titled "[Military Expenditures: How Do the Top-Spending Nations Compare?](https://www.stlouisfed.org/on-the-economy/2023/jan/military-expenditures-how-top-spending-nations-compare)". As a member of the U.S. Armed Forces, I frequently hear about the United States' military spending habits in conversation. Some proclaim it's too high while argue claim it's not enough. Both arguments have some merit when backed with data and facts; however, I baulk at strong **misinformed** beliefs. This graph was featured in a tweet by the St. Louis Federal Reserve Bank with the caption "An analysis looks at how defense spending among the nations with the highest expenditures has changed since 1992 and what may have driven the changes". Without investing the time to read --or at least conduct a full analysis of the graph, the casual viewer is at risk of receiving a message which is far from the truth. The first graph in the article can found below: 
 
 ### Top Six Countries by Military Expenditure
 
@@ -15,36 +15,43 @@ Stephen Few's [Data Visualization Effectiveness Profile](https://www.perceptuale
 The followeing categories are graded on a scale from 1 to 10 in accordance with Few's Profile:
 
 
-**Usefulness: 5/10**
-**Completeness: 8/10**
-**Perceptibility: 2/10**
-**Truthfulness: 2/10**
-**Intuitiveness: 2/10**
-**Aesthetics: 5/10**
+* **Usefulness: 5/10**
 
-### Usefulness and Completeness:
+* **Completeness: 8/10**
+
+* **Perceptibility: 2/10**
+
+* **Truthfulness: 2/10**
+
+* **Intuitiveness: 2/10**
+
+* **Aesthetics: 5/10**
+
+* **Engagement**
+
+### Usefulness: 5/10
   
 The graphic, if interpreted correctly, provides the relevant data for the topic. With careful inspection we can glean the spending habits of different countries. This graphic would rank much higher here if the initial impression was in keeping with the data, however it is not; in the context of data visualization, this is an issue. 
 
-### Completeness:
+### Completeness: 8/10
 
-The visualization provides a thorough scope of data, from 1992 to 2022. This suficiently covers modern history to show changes in military spending. Additionally, by inclduing the six highest spenders, we get a picture of how the highest countries compare. Additionally, the article later on provides a graphic of the military spending as a percent of GDP, which allows the viewer to understand the context of each country's spending habits.
+The visualization provides a thorough scope of data, from 1992 to 2022. This sufficiently covers modern history to show changes in military spending. Additionally, by including the six highest spenders, we get a picture of how the highest countries compare. Additionally, the article later on provides a graphic of the military spending as a percent of GDP, which allows the viewer to understand the context of each country's spending habits.
 
-### Perceptibility, Truthfulness, and Intuitiveness:
+### Perceptibility (2/10), Truthfulness (2/10), and Intuitiveness (2/10):
 
 Line charts are a useful tool that allow us to quickly understand trends. Because of this, this graph is particularly misleading. The initial perception is that China overtook the U.S. in 2013, as their line intersects the United States. Even if one does notice the right-axis, it takes a mental exercise to contrast the peak values from the U.S. with those of China (the next highest country).
 
-These are the priamry contributing factors to the low truthfullness and intuitiveness scores. The initial message is not truthful, and on the chance that a viewer does catch the complexity, it is still not intuitive to draw conclusions. It remains difficult to see how much more the U.S. spends on the military versus other countries. 
+These are the primary contributing factors to the low truthfulness and intuitiveness scores. The initial message is not truthful, and on the chance that a viewer does catch the complexity, it is still not intuitive to draw conclusions. It remains difficult to see how much more the U.S. spends on the military versus other countries. 
 
 On a positive note, the authors did standardize all spending to the U.S. Dollar, which makes the graph much more truthful and intuitive. 
 
-### Aesthetics and Engagement:
+### Aesthetics (5/10) and Engagement (5/10):
 
-This visualization has a middle of the road score for aesthetics, as it is a simple line chart. The visuzlization utilizes space and color well. Placing the legend centered at the top makes it convenient to check, and we are able to see which lines correspond to which countries easily. I found that dollar signs in the y-axes were redundant, and the x-axis appears overcrowded. I think the visualization could do without the dollar signs, and making the x-axis more sparse, as it's obviously a continous timeline. The primary change required, which will persist, is the rectification of the dual-axis line graph. 
+This visualization has a middle of the road score for aesthetics, as it is a simple line chart. The visualization utilizes space and color well. Placing the legend centered at the top makes it convenient to check, and we are able to see which lines correspond to which countries easily. I found that dollar signs in the y-axes were redundant, and the x-axis appears overcrowded. I think the visualization could do without the dollar signs, and making the x-axis more sparse, as it's obviously a continuous timeline. The primary change required, which will persist, is the rectification of the dual-axis line graph. 
 
-Regarading engagement, the visualization is not dynamic and does not allow the viewer to hover and see individual datapoint values, nor does it invite further analysis, as it is already difficult enough to understand. The primary engagement probably comes from the article, when later on it mentions how the U.S. is in fact well above China in military spending, which may cause readers to circle back to re-assess. This is not the type of engagement we want out of data visualizations. 
+Regarding engagement, the visualization is not dynamic and does not allow the viewer to hover and see individual datapoint values, nor does it invite further analysis, as it is already difficult enough to understand. The primary engagement probably comes from the article, when later on it mentions how the U.S. is in fact well above China in military spending, which may cause readers to circle back to re-assess. This is not the type of engagement we want out of data visualizations. 
 
-# Sektching a New Solution
+# Sketching a New Solution
 
 I chose to create a simple sketch that captures the existing data without using a dual axis chart. This should simplify and highlight the truth behind the numbers. I also wanted to make sure that the x-axis would come out with less clutter and did not repeat the "$" on all of the y-axis values. 
 
@@ -104,7 +111,7 @@ These comments meant I was on the right track. They both noted how much the U.S.
 
 # Final Visualizations
 
-From here, I implemented the sketch into Tableua, and included a graphic of the spending as a percent of GDP. I feel like both of these visualizations belonged in the tweet from the St. Louis Federal Reserve Bank to paint a clear picture. 
+From here, I implemented the sketch into Tableau, and included a graphic of the spending as a percent of GDP. I feel like both of these visualizations belonged in the tweet from the St. Louis Federal Reserve Bank to paint a clear picture. My visualization includes the data without a dual-axis, and also includes the sum of the bottom five countries to compare with the United States. 
 
 The first visualization is the military expenditures of the top six countries:
 
@@ -123,6 +130,8 @@ The first visualization is the military expenditures of the top six countries:
 </script>
 
 \
+
+\
 As mentioned, I also created and included a visuzlization of the spending as a percent of GDP, to ensure that the message from the chart has some context regarding each country's spending habits. In short, this shows that the U.S. is not spending an unreasonable amount when compared to its overall GDP. 
 \
 
@@ -137,3 +146,9 @@ As mentioned, I also created and included a visuzlization of the spending as a p
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+# Reflection and Future Work
+
+I am satisfied with the redesign primarily because it now presents a more truthful and intuitive message. It also includes information to ensure the viewer is not left with the opposite of the original message (the U.S. is spending an irresponsible amount on the military). Whether one believes that or not is their decision, but the visualization now provides information that could lend itself to either case. 
+
+If I to continue working on this visualization, I would spend more time in Tableau. Currently I'm unable to move aspects of the visualization around to adjust some of the alignment. For example I would prefer to overlay the legend on top of the graph and make the legend labels aligned in a 2 x 3 grid instead of a 1 x 6 list. 
