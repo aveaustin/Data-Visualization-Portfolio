@@ -107,7 +107,9 @@ The intended audience for this is likely those interested in government spending
 
 The chart is effective at showing how much more the US spends on its military than other countries. If that is the main point of the chart, then I wouldn't change much. Maybe just the scales on the axes (make them even units apart). Other than that, the chart is simple yet effective.
 
-These comments meant I was on the right track. They both noted how much the U.S. spends, which made me consider the importance of including the spending as a percent of GDP in addition to this graph, to prevent misleading the audience in the opposite direction of the original visualization. 
+### Takeaways
+
+These comments meant I was on the right track. They both noted how much the U.S. spends, which made me consider the importance of including the spending as a percent of GDP in addition to this graph, to prevent misleading the audience in the opposite direction of the original visualization. I implemented both of these changes in my redesign. Another consideration was benchmarking large global events along the timeline to provide some temporal context to when GDP shifts may have occured. After some careful consideration, I decided that there was no way to include these kinds of events in such a way that each benchmark impacted every country visible within the graph. To avoid creating a visualization that only provided temporal context for some of the countries, I left these out. 
 
 # Final Visualizations
 
@@ -133,7 +135,7 @@ The first visualization is the military expenditures of the top six countries:
 
 \
 
-As mentioned, I also created and included a visuzlization of the spending as a percent of GDP, to ensure that the message from the chart has some context regarding each country's spending habits. In short, this shows that the U.S. is not spending an unreasonable amount when compared to its overall GDP. 
+As mentioned, I also created and included a visuzlization of the spending as a percent of GDP, to ensure that the message from the chart has some context regarding each country's spending habits. In short, this shows that the U.S. is not spending an unreasonable amount when compared to its overall GDP. I also will note that this is not a novel idea of my own. The article from which the original chart was found also includes this data. My primary point in including this is to emphasize that both graphs could have been presented to the viewer to provide more context at a glance. 
 
 \
 
