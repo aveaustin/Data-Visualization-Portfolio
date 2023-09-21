@@ -131,13 +131,11 @@ The first visualization is the military expenditures of the top six countries:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-\
 
-\
 
 As mentioned, I also created and included a visuzlization of the spending as a percent of GDP, to ensure that the message from the chart has some context regarding each country's spending habits. In short, this shows that the U.S. is not spending an unreasonable amount when compared to its overall GDP. I also will note that this is not a novel idea of my own. The article from which the original chart was found also includes this data. My primary point in including this is to emphasize that both graphs could have been presented to the viewer to provide more context at a glance. 
 
-\
+
 
 <div class='tableauPlaceholder' id='viz1695173055503' style='position: relative'><noscript><a href='#'><img alt='U.S. Military Spending is Out of Hand... Or is it? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilExpGDP&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MilExpGDP&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;MilExpGDP&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' />
 </object>
