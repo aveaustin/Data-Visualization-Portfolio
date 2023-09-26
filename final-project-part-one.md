@@ -28,6 +28,10 @@ After painting such a dismal picture, the emphasis will shift: what do we do abo
 
 ## Initial Sketches
 
+My idea for these sketches is to first highlight how the aggregation of living expenses has increased over time. I will accomplish this with a stacked area chart. I chose this chart type because the specific readout values are of less impotance than the aggregate whole. 
+
+Then, we will look at how that aggregated value has changed oveer time in comparison to the median income (I will likely use median since the mean is **highly skewed** by the elites in America). This will hopefully show an increasing desparity over time. 
+
 ![Sketch 1](IMG_8A808D667F88-1.jpeg)
 This sketch illustrates the aspects of life which I have used to calculate the average cost of living in America. It includes aspects like housing, food, transportation, and childcare (adjusted for inflation). This will hopefully show that the cost of living has gone up. 
 
