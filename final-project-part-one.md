@@ -28,10 +28,10 @@ After painting such a dismal picture, the emphasis will shift: what do we do abo
 
 ## Initial Sketches
 
-![Sketch 1](IMG_8A808D667F88-1.jpeg)
+[Sketch 1](IMG_8A808D667F88-1.jpeg)
 This sketch illustrates the aspects of life which I have used to calculate the average cost of living in America. It includes aspects like housing, food, transportation, and childcare (adjusted for inflation). This will hopefully show that the cost of living has gone up. 
 
-![Sketch 2](IMG_7CC4FA708931-1.jpeg)
+[Sketch 2](IMG_7CC4FA708931-1.jpeg)
 This next sketch takes the aggregation of the above data, and plots it as a line, against the average income in America to show how the difference between the two has changed.
 
 This sketch illustrates 
