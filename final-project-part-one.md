@@ -28,6 +28,10 @@ After painting such a dismal picture, the emphasis will shift: what do we do abo
 
 ## Initial Sketches
 
+The story starts off with a downward turn, showing how the cost of living is increasing. This is exacerbated by the idea that the increase in income over time does not keep pace with the cost of living. After bringing the mood down, we will show what readers can do about it. By shifting the emphasis to enriching financial literacy, we leave the reader with a feeling of encouragement; that despite the circumstances, they can shape their future into the life they want. It will generally follow this story arc: 
+
+![Story Arc](storyarc.jpeg)
+
 My idea for these sketches is to first highlight how the aggregation of living expenses has increased over time. I will accomplish this with a stacked area chart. I chose this chart type because the specific readout values are of less impotance than the aggregate whole. 
 
 Then, we will look at how that aggregated value has changed oveer time in comparison to the median income (I will likely use median since the mean is **highly skewed** by the elites in America). This will hopefully show an increasing desparity over time. 
