@@ -40,10 +40,14 @@ Then, we will look at how that aggregated value has changed oveer time in compar
 This sketch illustrates the aspects of life which I have used to calculate the average cost of living in America. It includes aspects like housing, food, transportation, and childcare (adjusted for inflation). This will hopefully show that the cost of living has gone up. 
 
 ![Sketch 2](IMG_7CC4FA708931-1.jpeg)
-This next sketch takes the aggregation of the above data, and plots it as a line, against the average income in America to show how the difference between the two has changed.
-
-This sketch illustrates 
+This next sketch takes the aggregation of the above data, and plots it as a line, against the average income in America to show how the difference between the two has changed. 
 
 ##  Data Sources
+
+### Census.gov
+
+* Median Income:
+  * https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html
+
 
 ## Method and Medium
