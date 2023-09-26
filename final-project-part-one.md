@@ -46,8 +46,17 @@ This next sketch takes the aggregation of the above data, and plots it as a line
 
 ### Census.gov
 
-* Median Income:
-  * https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html
+* Income:
+  * Median Income: https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html
+  * Personal Income: https://www.bea.gov/data/income-saving/personal-income
 
+* Healthcare Spending:
+  * National Healthcare Spending: https://www.bea.gov/data/special-topics/health-care
+  * Health Spending Tracker: https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/#Total%20national%20health%20expenditures,%20US%20$%20Billions,%201970-2021
 
+* Housing Cost:
+
+  * 
+
+  
 ## Method and Medium
