@@ -55,8 +55,21 @@ This next sketch takes the aggregation of the above data, and plots it as a line
   * Health Spending Tracker: https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/#Total%20national%20health%20expenditures,%20US%20$%20Billions,%201970-2021
 
 * Housing Cost:
+  * Average Monthly Rent: https://ipropertymanagement.com/research/average-rent-by-year
 
-  * 
+* Education Cost
+  * Cost of 4 Year tuition: https://educationdata.org/average-cost-of-college-by-year
+ 
+* Food:
+  * Food Expenditure by Household: https://www.ers.usda.gov/data-products/food-expenditure-series/
 
-  
+* Food, Transportation, Housing, Healthcare
+  * Average Annual Expenditures: https://www.bls.gov/cex/tables/calendar-year/mean/cu-all-multi-year-2013-2020.pdf
+    
 ## Method and Medium
+
+My method is to aggregate data to paint a picture that as individual industy's prices grow, the total cost of living increases as an aggregation of all of them. I want to keep these graphs somewhat minimal, and emphasize exactly what I want the audience (lower middle class and below) to notice. 
+
+I am hoping to fram this presentation as a story, taking an average family from the 90s and comparing them to an average family today, to highlight the differences in disposable money. This will resonate with the target audience. Once I paint the somewhat dismal picture, I'm hoping to provide some financial literacy resources that meet individuals where they are. Based on their current financial situation, topics could range from debt consolidation to tax-defferred accounts so hopefully everyone gets something out of the call to action. 
+
+My medium is Shorthand, and I hope to use visualizations (both data-driven and not) to show the utility of financial literacy and help convey a positive message by the conclusion. 
