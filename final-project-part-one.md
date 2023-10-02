@@ -44,7 +44,7 @@ This next sketch takes the aggregation of the above data, and plots it as a line
 
 ##  Data Sources
 
-Consumer expenditure:
+Consumer expenditure, sourced from the World Bank:
 
 https://www.macrotrends.net/countries/USA/united-states/consumer-spending
 
