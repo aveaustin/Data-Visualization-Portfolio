@@ -44,7 +44,13 @@ This next sketch takes the aggregation of the above data, and plots it as a line
 
 ##  Data Sources
 
+Consumer expenditure:
+
+https://www.macrotrends.net/countries/USA/united-states/consumer-spending
+
 ### Census.gov
+
+
 
 * Income:
   * Median Income: https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html
