@@ -8,7 +8,9 @@ It still needs some work, so stay tuned for Part III where I tie it all together
 
 ## User Research
 
-I interviewed individuals who fit into my target audience and asked them questions about the story, its clarity, and impact. Their responses are recorded below
+I interviewed individuals who fit into my target audience and asked them questions about the story, its clarity, and impact. Their responses are recorded below.
+
+My approach for identifying individuals to interview followed a general thought process of "who do I know who likely makes around the median income, and won't feel like I'm calling them poor with this request?" After brainstorming for a while, I reached out to some friends to get their responses. I asked some questions to tease out areas to improve, but also asked about strong points to ensure their utility in the presentation. 
 
 ### Subject 1:
 
