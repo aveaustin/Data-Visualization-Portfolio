@@ -42,7 +42,6 @@ As far as the project goes, some parts were not *hard*, but were extremely benef
 # References: 
 
   * Bureau of Transportation Statistics. "Costs Faced by Households." https://data.bts.gov/stories/s/5h3f-jnbe#costs-faced-by-households
-  * 
   * Bureau of Transportation Statistics. "Transportation Economic Trends: Table 2-1." https://data.bts.gov/stories/s/ida7-k95k/
   * Experian. "How to Use a Credit Card Responsibly." https://www.experian.com/blogs/ask-experian/how-to-use-a-credit-card-responsibly/
   * iPropertyManagement. "Average Rent by Year: A Look at the Data & Trends." https://ipropertymanagement.com/research/average-rent-by-year
