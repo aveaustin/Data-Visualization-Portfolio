@@ -78,9 +78,9 @@ My method is to aggregate data to paint a picture that as individual industy's p
 
 I am hoping to fram this presentation as a story, taking an average family from the 90s and comparing them to an average family today, to highlight the differences in disposable money. This will resonate with the target audience. Once I paint the somewhat dismal picture, I'm hoping to provide some financial literacy resources that meet individuals where they are. Based on their current financial situation, topics could range from debt consolidation to tax-defferred accounts so hopefully everyone gets something out of the call to action. 
 
+My medium is Shorthand, and I hope to use visualizations (both data-driven and not) to show the utility of financial literacy and help convey a positive message by the conclusion. 
+
 Feel free to check out part 2
 ### [Part 2](final-project-part-two.md)
 
 ### [Main Page](data-visualization-portfolio)
-
-My medium is Shorthand, and I hope to use visualizations (both data-driven and not) to show the utility of financial literacy and help convey a positive message by the conclusion. 
