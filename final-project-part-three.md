@@ -42,8 +42,15 @@ As far as the project goes, some parts were not *hard*, but were extremely benef
 # References: 
 
   * Bureau of Transportation Statistics. "Costs Faced by Households." https://data.bts.gov/stories/s/5h3f-jnbe#costs-faced-by-households
+  * Bureau of Transportation Statistics. "Transportation Economic Trends: Table 2-1." https://data.bts.gov/stories/s/ida7-k95k/
+  * Experian. "How to Use a Credit Card Responsibly." https://www.experian.com/blogs/ask-experian/how-to-use-a-credit-card-responsibly/
+  * iPropertyManagement. "Average Rent by Year: A Look at the Data & Trends." https://ipropertymanagement.com/research/average-rent-by-year
+  * NerdWallet. "How to Save Money: 20 Simple Tips." https://www.nerdwallet.com/article/finance/how-to-save-money
+  * Ramsey Solutions. "13 Proven Ways to Get Out of Debt Faster." https://www.ramseysolutions.com/debt/ways-to-get-out-of-debt
+  * U.S. Bureau of Economic Analysis. "Health Care." https://www.bea.gov/data/special-topics/health-care
+  * US Inflation Calculator. "Food Inflation in the United States." https://www.usinflationcalculator.com/inflation/food-inflation-in-the-united-states/
+  * U.S. Bureau of Labor Statistics. "Consumer Expenditures - Top-Line Data." https://www.bls.gov/cex/tables/top-line-means.htm
   * WhistleOut. "Average Phone Plan Price - 2021 Guide." https://www.whistleout.com/CellPhones/Guides/average-phone-plan-price#:~:text=According%20to%20the%20most%20recent,%2Fmonth%20or%20%241%2C371%2Fyear
-  *
-   
+    
 ### [Main Page](data-visualization-portfolio)
 
