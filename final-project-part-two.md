@@ -111,3 +111,7 @@ I received some good insight from my interviews. Overall it sounds like I'm on t
 | Lack of Data on "What to do" section | To fix this, I will include another graph which highlights how much money a person will have in 40 years if they save $350 per year or if they save a larger amount after cutting back. The difference should be massive.  |
 | Weak call to action                  | This goes along with the washed out message. I will likely prompt the reader to stop and think, "do I have enough money to live for 3-4 months with no income"                                                             |
 | Trivial expenses graph               | I will create a graph that shows how the trivial expenses add up over time, eating into the excess cash after living-expenses                                                                                              |
+
+### [Part 3](final-project-part-three.md)
+
+### [Main Page](data-visualization-portfolio.md)
